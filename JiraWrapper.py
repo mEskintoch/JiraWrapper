@@ -9,9 +9,6 @@ class JiraFacilitator:
         self.CONSUMER_KEY = consumer_key
         self.jira_instance = self.connect()
 
-    #         self.project = project
-    #         self.project = project_key
-
     def all_issues(self, project):
 
         """
