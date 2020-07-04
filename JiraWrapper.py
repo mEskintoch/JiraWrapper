@@ -164,7 +164,7 @@ class JiraFacilitator:
           given context (parse_issue_func)
 
         Args:
-          :param project: Jira Project (str)
+          :param projgitect: Jira Project (str)
           :param parse_issue_funct: Python Function that applies on issue
 
         Returns:
